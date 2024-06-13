@@ -1,4 +1,4 @@
-.home-container {
+.moto-x3m-spooky-land-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -8,9 +8,9 @@
   justify-content: flex-start;
   background-color: #49aaff;
 }
-.home-navbar-interactive {
+.moto-x3m-spooky-land-navbar-interactive {
   width: 100%;
-  height: 172px;
+  height: 189px;
   display: flex;
   align-items: center;
   padding-top: var(--dl-space-space-twounits);
@@ -19,44 +19,41 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: space-between;
 }
-.home-navlink {
+.moto-x3m-spooky-land-navlink {
   display: contents;
 }
-.home-image {
+.moto-x3m-spooky-land-image {
   width: 203px;
   height: 164px;
   text-decoration: none;
 }
-.home-desktop-menu {
+.moto-x3m-spooky-land-desktop-menu {
   flex: 1;
   display: flex;
   justify-content: space-between;
 }
-.home-links {
+.moto-x3m-spooky-land-links {
   flex: 1;
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: center;
 }
-.home-navlink2 {
-  text-decoration: none;
-}
-.home-buttons {
+.moto-x3m-spooky-land-buttons {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.home-burger-menu {
+.moto-x3m-spooky-land-burger-menu {
   display: none;
 }
-.home-icon {
+.moto-x3m-spooky-land-icon {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.home-mobile-menu {
+.moto-x3m-spooky-land-mobile-menu {
   top: 0px;
   left: 0px;
   width: 100%;
@@ -69,114 +66,121 @@
   justify-content: space-between;
   background-color: #fff;
 }
-.home-nav {
+.moto-x3m-spooky-land-nav {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-top {
+.moto-x3m-spooky-land-top {
   width: 100%;
   display: flex;
   align-items: center;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.home-logo {
+.moto-x3m-spooky-land-logo {
   height: 2rem;
 }
-.home-close-menu {
+.moto-x3m-spooky-land-close-menu {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.home-icon02 {
+.moto-x3m-spooky-land-icon02 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.home-links1 {
+.moto-x3m-spooky-land-links1 {
   flex: 0 0 auto;
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text {
+.moto-x3m-spooky-land-text {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text1 {
+.moto-x3m-spooky-land-text1 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text2 {
+.moto-x3m-spooky-land-text2 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text3 {
+.moto-x3m-spooky-land-text3 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text4 {
+.moto-x3m-spooky-land-text4 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-buttons1 {
+.moto-x3m-spooky-land-buttons1 {
   display: flex;
   margin-top: var(--dl-space-space-unit);
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.home-login {
+.moto-x3m-spooky-land-login {
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon04 {
+.moto-x3m-spooky-land-icon04 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon06 {
+.moto-x3m-spooky-land-icon06 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon08 {
+.moto-x3m-spooky-land-icon08 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
+}
+.moto-x3m-spooky-land-container1 {
+  width: 996px;
+  height: 654px;
+}
+.moto-x3m-spooky-land-container2 {
+  display: contents;
 }
 @media(max-width: 767px) {
-  .home-navbar-interactive {
+  .moto-x3m-spooky-land-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-desktop-menu {
+  .moto-x3m-spooky-land-desktop-menu {
     display: none;
   }
-  .home-burger-menu {
+  .moto-x3m-spooky-land-burger-menu {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .home-text {
+  .moto-x3m-spooky-land-text {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text1 {
+  .moto-x3m-spooky-land-text1 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text2 {
+  .moto-x3m-spooky-land-text2 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text3 {
+  .moto-x3m-spooky-land-text3 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text4 {
+  .moto-x3m-spooky-land-text4 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 479px) {
-  .home-navbar-interactive {
+  .moto-x3m-spooky-land-navbar-interactive {
     padding: var(--dl-space-space-unit);
   }
-  .home-mobile-menu {
+  .moto-x3m-spooky-land-mobile-menu {
     padding: 16px;
   }
 }

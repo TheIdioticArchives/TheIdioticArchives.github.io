@@ -1,4 +1,4 @@
-.home-container {
+.we-become-what-we-behold-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -8,7 +8,7 @@
   justify-content: flex-start;
   background-color: #49aaff;
 }
-.home-navbar-interactive {
+.we-become-what-we-behold-navbar-interactive {
   width: 100%;
   height: 172px;
   display: flex;
@@ -19,44 +19,44 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: space-between;
 }
-.home-navlink {
+.we-become-what-we-behold-navlink {
   display: contents;
 }
-.home-image {
+.we-become-what-we-behold-image {
   width: 203px;
   height: 164px;
   text-decoration: none;
 }
-.home-desktop-menu {
+.we-become-what-we-behold-desktop-menu {
   flex: 1;
   display: flex;
   justify-content: space-between;
 }
-.home-links {
+.we-become-what-we-behold-links {
   flex: 1;
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: center;
 }
-.home-navlink2 {
+.we-become-what-we-behold-navlink2 {
   text-decoration: none;
 }
-.home-buttons {
+.we-become-what-we-behold-buttons {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.home-burger-menu {
+.we-become-what-we-behold-burger-menu {
   display: none;
 }
-.home-icon {
+.we-become-what-we-behold-icon {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.home-mobile-menu {
+.we-become-what-we-behold-mobile-menu {
   top: 0px;
   left: 0px;
   width: 100%;
@@ -69,114 +69,121 @@
   justify-content: space-between;
   background-color: #fff;
 }
-.home-nav {
+.we-become-what-we-behold-nav {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-top {
+.we-become-what-we-behold-top {
   width: 100%;
   display: flex;
   align-items: center;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.home-logo {
+.we-become-what-we-behold-logo {
   height: 2rem;
 }
-.home-close-menu {
+.we-become-what-we-behold-close-menu {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.home-icon02 {
+.we-become-what-we-behold-icon02 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.home-links1 {
+.we-become-what-we-behold-links1 {
   flex: 0 0 auto;
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text {
+.we-become-what-we-behold-text {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text1 {
+.we-become-what-we-behold-text1 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text2 {
+.we-become-what-we-behold-text2 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text3 {
+.we-become-what-we-behold-text3 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text4 {
+.we-become-what-we-behold-text4 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-buttons1 {
+.we-become-what-we-behold-buttons1 {
   display: flex;
   margin-top: var(--dl-space-space-unit);
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.home-login {
+.we-become-what-we-behold-login {
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon04 {
+.we-become-what-we-behold-icon04 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon06 {
+.we-become-what-we-behold-icon06 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon08 {
+.we-become-what-we-behold-icon08 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
+}
+.we-become-what-we-behold-container1 {
+  width: 856px;
+  height: 484px;
+}
+.we-become-what-we-behold-container2 {
+  display: contents;
 }
 @media(max-width: 767px) {
-  .home-navbar-interactive {
+  .we-become-what-we-behold-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-desktop-menu {
+  .we-become-what-we-behold-desktop-menu {
     display: none;
   }
-  .home-burger-menu {
+  .we-become-what-we-behold-burger-menu {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .home-text {
+  .we-become-what-we-behold-text {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text1 {
+  .we-become-what-we-behold-text1 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text2 {
+  .we-become-what-we-behold-text2 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text3 {
+  .we-become-what-we-behold-text3 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text4 {
+  .we-become-what-we-behold-text4 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 479px) {
-  .home-navbar-interactive {
+  .we-become-what-we-behold-navbar-interactive {
     padding: var(--dl-space-space-unit);
   }
-  .home-mobile-menu {
+  .we-become-what-we-behold-mobile-menu {
     padding: 16px;
   }
 }

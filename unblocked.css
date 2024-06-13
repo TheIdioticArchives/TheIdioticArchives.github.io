@@ -1,4 +1,4 @@
-.home-container {
+.unblocked-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -8,7 +8,7 @@
   justify-content: flex-start;
   background-color: #49aaff;
 }
-.home-navbar-interactive {
+.unblocked-navbar-interactive {
   width: 100%;
   height: 172px;
   display: flex;
@@ -19,44 +19,41 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: space-between;
 }
-.home-navlink {
+.unblocked-navlink {
   display: contents;
 }
-.home-image {
+.unblocked-image {
   width: 203px;
   height: 164px;
   text-decoration: none;
 }
-.home-desktop-menu {
+.unblocked-desktop-menu {
   flex: 1;
   display: flex;
   justify-content: space-between;
 }
-.home-links {
+.unblocked-links {
   flex: 1;
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: center;
 }
-.home-navlink2 {
-  text-decoration: none;
-}
-.home-buttons {
+.unblocked-buttons {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.home-burger-menu {
+.unblocked-burger-menu {
   display: none;
 }
-.home-icon {
+.unblocked-icon {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.home-mobile-menu {
+.unblocked-mobile-menu {
   top: 0px;
   left: 0px;
   width: 100%;
@@ -69,114 +66,117 @@
   justify-content: space-between;
   background-color: #fff;
 }
-.home-nav {
+.unblocked-nav {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-top {
+.unblocked-top {
   width: 100%;
   display: flex;
   align-items: center;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.home-logo {
+.unblocked-logo {
   height: 2rem;
 }
-.home-close-menu {
+.unblocked-close-menu {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.home-icon02 {
+.unblocked-icon02 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.home-links1 {
+.unblocked-links1 {
   flex: 0 0 auto;
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text {
+.unblocked-text {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text1 {
+.unblocked-text1 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text2 {
+.unblocked-text2 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text3 {
+.unblocked-text3 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text4 {
+.unblocked-text4 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-buttons1 {
+.unblocked-buttons1 {
   display: flex;
   margin-top: var(--dl-space-space-unit);
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.home-login {
+.unblocked-login {
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon04 {
+.unblocked-icon04 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon06 {
+.unblocked-icon06 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon08 {
+.unblocked-icon08 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
+}
+.unblocked-navlink3 {
+  text-decoration: none;
 }
 @media(max-width: 767px) {
-  .home-navbar-interactive {
+  .unblocked-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-desktop-menu {
+  .unblocked-desktop-menu {
     display: none;
   }
-  .home-burger-menu {
+  .unblocked-burger-menu {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .home-text {
+  .unblocked-text {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text1 {
+  .unblocked-text1 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text2 {
+  .unblocked-text2 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text3 {
+  .unblocked-text3 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text4 {
+  .unblocked-text4 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 479px) {
-  .home-navbar-interactive {
+  .unblocked-navbar-interactive {
     padding: var(--dl-space-space-unit);
   }
-  .home-mobile-menu {
+  .unblocked-mobile-menu {
     padding: 16px;
   }
 }
